@@ -2,7 +2,8 @@
 
 # Colab Proyecto
 Fuente Data set: https://demre.cl/portales/portal-bases-datos
-https://colab.research.google.com/drive/1Ony_f6O239Vfp391VblsJYPYChVx58EW#scrollTo=RgpoQksRdv7R
+https://colab.research.google.com/drive/1Ony_f6O239Vfp391VblsJYPYChVx58EW#scrollTo=RgpoQksRdv7R \\
+INforme HitoII -> https://colab.research.google.com/drive/1xX3vvbkmGaFC6cRo7dfBSmt_2o_L50DH#scrollTo=D_cDX8mEMUVX
 
 # Laboratorios
  lab1: https://colab.research.google.com/drive/1tJrWCBIg9_34eLju_SGbcLjnNi21u-Lh#scrollTo=wob6OOz1BHBu \\
